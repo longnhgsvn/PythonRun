@@ -51,6 +51,10 @@ PythonRun is a Windows Forms application that allows users to manage, edit, and 
 5. **Run the Application**:
 - Start the application from Visual Studio.
 
+Other way download zip file
+https://github.com/longnhgsvn/PythonRun/releases/download/v1.0.0/PythonRun.zip
+
+Unzip then run  PythonRun.exe
 ---
 
 ## Usage
