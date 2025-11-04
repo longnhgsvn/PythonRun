@@ -30,9 +30,24 @@ PythonRun is a Windows Forms application that allows users to manage, edit, and 
 
 ## Prerequisites
 
-- **.NET 8 Runtime**: Ensure you have the .NET 8 runtime installed.
-- **Python**: Install Python and ensure it is added to your system's PATH.
-- **SQLite**: The application uses SQLite for database management.
+.NET 8 Runtime: Ensure you have the .NET 8 runtime installed. You can download it from the official .NET website
+.
+
+Python: Install Python (version 3.10 or later recommended) and ensure it is added to your system's PATH so you can run Python scripts from the command line. Verify installation by running:
+
+python --version
+
+
+or
+
+python3 --version
+
+
+SQLite: The application uses SQLite for database management. Ensure the SQLite executable is available or use the built-in SQLite support in Python via the sqlite3 module.
+
+Optional Python Packages (if the application requires):
+
+pip install -r requirements.txt
 
 ---
 
