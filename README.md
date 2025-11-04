@@ -2,6 +2,8 @@
 
 PythonRun is a Windows Forms application that allows users to manage, edit, and execute Python scripts. It provides a user-friendly interface for working with Python code, including syntax highlighting, database integration, and script execution.
 
+<img width="1189" height="640" alt="image" src="https://github.com/user-attachments/assets/b7a8cc85-ab29-48eb-8495-3012165865fc" />
+
 ---
 
 ## Features
